@@ -1,6 +1,5 @@
 # k8s-jenkins
 
--addresspool.yaml
  - custom addresspool range using metallb
 deployment.yaml
  - deployment file for jenkins
